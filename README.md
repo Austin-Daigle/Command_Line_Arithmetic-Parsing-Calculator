@@ -12,7 +12,7 @@ This is a java program that uses recursive descent parsing to evaluate arithmeti
   (Support for Radians and Degrees)
 
 # How to use
-Download the [source code]() and compile and execute it via the command line and then enter your expressions or commands via the command line interface.
+Download the [source code](https://github.com/Austin-Daigle/Command_Line_Arithmetic-Parsing-Calculator) and compile and execute it via the command line and then enter your expressions or commands via the command line interface.
 
 # Screenshot
 ![image](https://user-images.githubusercontent.com/100094056/198393728-721a9fe6-df6e-4ae9-a310-91f402c51d41.png)
