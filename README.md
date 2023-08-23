@@ -1,5 +1,5 @@
-# Command_Line_Arithmetic-Parsing-Calculator
-This is a java program that uses recursive descent parsing to evaluate arithmetic statements within a command line calculator application.
+# Command Line Arithmetic Parsing Calculator
+This java program uses recursive descent parsing to evaluate arithmetic statements within a command-line calculator application.
 
 # Supported Mathematical Functions:
   * Multiplication
